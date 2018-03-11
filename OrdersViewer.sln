@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersViewer", "OrdersViewer\OrdersViewer.csproj", "{89E6D3AB-75F8-47CA-AFDA-F8E78666939D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersViewer.UI", "OrdersViewer.UI\OrdersViewer.UI.csproj", "{33D1F2B8-6B6B-47FD-B390-392A294CCFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E6D3AB-75F8-47CA-AFDA-F8E78666939D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E6D3AB-75F8-47CA-AFDA-F8E78666939D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E6D3AB-75F8-47CA-AFDA-F8E78666939D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E6D3AB-75F8-47CA-AFDA-F8E78666939D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D1F2B8-6B6B-47FD-B390-392A294CCFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D1F2B8-6B6B-47FD-B390-392A294CCFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D1F2B8-6B6B-47FD-B390-392A294CCFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D1F2B8-6B6B-47FD-B390-392A294CCFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F36F93D-99F1-47CA-AE11-ADD3AC15D63F}
+	EndGlobalSection
+EndGlobal
